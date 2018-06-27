@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestApp
 {
-    class Program
+    static class HolaKeAse
     {
-        static void Main(string[] args)
+        static public void PrintHola ()
         {
-            HolaKeAse.PrintHola();
+            Console.WriteLine("Hola ke ase");
         }
     }
 }
