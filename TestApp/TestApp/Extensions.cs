@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestApp
 {
-    class Program
+    class Extensions
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("HOLA MUNDO");
-        }
     }
 }
