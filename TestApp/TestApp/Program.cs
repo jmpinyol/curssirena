@@ -10,6 +10,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
+             // Aquets són els comentaris de l'Edgar No esborrar
         }
     }
 }
