@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestApp
 {
-    class Program
+    public static class UssageHelper
     {
-        static void Main(string[] args)
+        public static void PrintUsage()
         {
-
-             // Aquets són els comentaris de l'Edgar No esborrar
-
-            UssageHelper.PrintUsage();
-
+            Console.WriteLine("Se va a haber un  follón!!!");
         }
     }
 }
